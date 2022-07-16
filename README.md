@@ -1,2 +1,2 @@
 # IMVDA
-# This is the demo for incomplete multi-view domain adaptation via CEKT.
+This is the demo for incomplete multi-view domain adaptation via CEKT.
