@@ -16,4 +16,4 @@ scipy==1.1.0
 opencv-python==4.0.0  
 
 # Acknowledgements
-The implementation of channel exchange is mainly based on [CEN](https://github.com/yikaiw/CEN). Many thanks to Yikai for previous work.
+The implementation of channel exchange is mainly based on [CEN](https://github.com/yikaiw/CEN). Many thanks to Yikai for his previous work.
