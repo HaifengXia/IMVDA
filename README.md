@@ -1,5 +1,5 @@
 # IMVDA
-This is the demo for IMVDA via CEKT (updating).
+This is the demo for IMVDA via CEKT (updating...).
 
 # Datasets
 [Office-31](https://faculty.cc.gatech.edu/~judy/domainadapt/) and [Office-Home](https://www.hemanthdv.org/officeHomeDataset.html) are popular datasets for domain adaptation, which only includes RGB images.
